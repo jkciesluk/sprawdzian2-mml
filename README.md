@@ -6,6 +6,7 @@ Na program składają się trzy pliki:
 #### main.c: wypisuje kolejne liczby pierwsze
 #### Makefile: plik do kompilowania całego programu
 
+
 Kompilacja programu
 
 >make
