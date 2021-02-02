@@ -7,10 +7,10 @@ Na program składają się trzy pliki:
 #### Makefile: plik do kompilowania całego programu
 
 
-Kompilacja programu
+##### Kompilacja programu
 
 >make
 
-Uruchomienie programu w konsoli
+##### Uruchomienie programu w konsoli
 
 >./pierwsze
